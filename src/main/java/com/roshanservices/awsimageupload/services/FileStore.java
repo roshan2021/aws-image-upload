@@ -1,4 +1,4 @@
-package com.roshanservices.awsimageupload.filestore;
+package com.roshanservices.awsimageupload.services;
 
 import com.amazonaws.AmazonServiceException;
 import com.amazonaws.services.s3.AmazonS3;
